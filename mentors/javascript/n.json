@@ -6,5 +6,13 @@
   "link_url": "https://gofan.co",
   "avatar_url": null,
   "bio": "I have been developing in JS for 6 years. We use JS heavily at GOFan, and I am excited to be a mentor."
-}
+  },
+  {
+    "github_username": "njpearman",
+    "name": "NJ Pearman",
+    "link_text": null,
+    "link_url": null,
+    "avatar_url": null,
+    "bio": "When I started programming for the web, I avoided JavaScript at all costs.  But many years later, I've seen the light.  I find JavaScript a lot of fun and admire how it is now the most universal language for programming for the web."
+  }
 ]
